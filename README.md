@@ -1,6 +1,6 @@
 # LLM.txt Rust
 
-Adapted from the Original Project and README [here](https://github.com/AnswerDotAI/llms-txt)
+This README is a copy and adapted from the Original Project and README [here](https://github.com/AnswerDotAI/llms-txt)
 
 ## Background
 
