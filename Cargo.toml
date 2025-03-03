@@ -1,0 +1,16 @@
+[package]
+name = "llmtxt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.11.1"
+clap = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+thiserror = "2.0.11"
+
+
+[[bin]]
+name = "llmtxt"
+path = "src/cli.rs"
