@@ -1,4 +1,4 @@
-# LLM.txt Rust
+# llms.txt Rust
 
 This README is a copy and adapted from the Original Project and README [here](https://github.com/AnswerDotAI/llms-txt)
 
